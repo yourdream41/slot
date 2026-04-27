@@ -1,0 +1,72 @@
+==============================
+ゲーム画像ファイル名一覧
+==============================
+
+【キャラクター画像】(image/ フォルダに入れる)
+------------------------------
+char_fire_icon.png      → 火キャラ (Char_A) スロット目・選択画面アイコン
+char_fire_cutin.png     → 火キャラ カットイン・全体揃い演出
+char_fire_allsame.png   → 火キャラ 全体揃い専用(なければcutinと同じでOK)
+char_fire_fever.png     → 火キャラ フィーバー演出
+
+char_ice_icon.png       → 氷キャラ (Char_B) スロット目・選択画面アイコン
+char_ice_cutin.png      → 氷キャラ カットイン・全体揃い演出
+char_ice_allsame.png    → 氷キャラ 全体揃い専用
+char_ice_fever.png      → 氷キャラ フィーバー演出
+
+char_thunder_icon.png   → 雷キャラ (Char_C) スロット目・選択画面アイコン
+char_thunder_cutin.png  → 雷キャラ カットイン・全体揃い演出
+char_thunder_allsame.png→ 雷キャラ 全体揃い専用
+char_thunder_fever.png  → 雷キャラ フィーバー演出
+
+char_wind_icon.png      → 風キャラ (Char_D) スロット目・選択画面アイコン
+char_wind_cutin.png     → 風キャラ カットイン・全体揃い演出
+char_wind_allsame.png   → 風キャラ 全体揃い専用
+char_wind_fever.png     → 風キャラ フィーバー演出
+
+char_dark_icon.png      → 闇キャラ (Char_E) スロット目・選択画面アイコン
+char_dark_cutin.png     → 闇キャラ カットイン・全体揃い演出
+char_dark_allsame.png   → 闇キャラ 全体揃い専用
+char_dark_fever.png     → 闇キャラ フィーバー演出
+
+キャラ合計: 20枚
+(allsameはcutinと同じ画像でもOK→その場合15枚)
+
+【レリック画像】(image/ フォルダに入れる)
+------------------------------
+relic_heavy_dice.png    → 重い賽子
+relic_golden_dice.png   → 黄金の賽子
+relic_golden_line.png   → 金のライン
+relic_chain_mirror.png  → 連鎖の鏡
+relic_burning_reel.png  → 灼熱のリール
+relic_hourglass.png     → 時止めの砂時計
+relic_pursuit_blade.png → 追撃の刃
+relic_vampire_fang.png  → 吸血の牙
+relic_spin_charger.png  → スピンチャージャー
+relic_fever_boost.png   → フィーバーブースト
+
+レリック合計: 10枚
+
+【報酬バフ画像】(image/ フォルダに入れる)
+------------------------------
+buff_atk.png            → ATK+20バフ
+buff_coin.png           → コイン+50バフ
+buff_spin.png           → スピン+2バフ
+buff_luck.png           → LUCK+1バフ
+
+バフ合計: 4枚
+
+【ショップ消耗品画像】(image/ フォルダに入れる)
+------------------------------
+act_damage.png          → ダメージアイテム
+act_spin.png            → スピン回復アイテム
+act_fever.png           → フィーバーMAXアイテム
+act_luck.png            → LUCK+2アイテム
+act_coin.png            → コイン+80アイテム
+act_reroll.png          → リロールチケット
+
+消耗品合計: 6枚
+
+==============================
+総合計: 40枚 (allsame共用なら35枚)
+==============================
